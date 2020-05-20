@@ -1,0 +1,20 @@
+####	 Ignore all files with extensions .bak 		####
+
+*.bak
+
+
+
+####	 Ignore all files with names satring with a,e,i,o,u text files. 	####
+
+[aeiou]*.txt
+
+
+####	 Ignore all files with extensions .php 		####
+
+
+*.php
+
+####	But, do not ignore index.php file	####
+
+
+!index.php
